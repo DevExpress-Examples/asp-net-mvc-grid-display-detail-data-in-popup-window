@@ -1,0 +1,6 @@
+﻿@model object
+@{
+    ViewBag.Title = "DetailView";
+}
+
+@Html.Partial("DetailViewPartial", OrderRepository.GetOrders(Model.ToString()))
