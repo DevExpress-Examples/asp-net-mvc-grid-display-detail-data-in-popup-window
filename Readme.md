@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DisplayDetailInPopupWindow/Controllers/HomeController.cs)
+* [Data.cs](./CS/DisplayDetailInPopupWindow/Models/Data.cs)
+* [JSCustom.js](./CS/DisplayDetailInPopupWindow/Scripts/JSCustom.js)
+* [DetailView.cshtml](./CS/DisplayDetailInPopupWindow/Views/Home/DetailView.cshtml)
+* [Index.cshtml](./CS/DisplayDetailInPopupWindow/Views/Home/Index.cshtml)
+* [DetailViewPartial.cshtml](./CS/DisplayDetailInPopupWindow/Views/Shared/DetailViewPartial.cshtml)
+* [MasterViewPartial.cshtml](./CS/DisplayDetailInPopupWindow/Views/Shared/MasterViewPartial.cshtml)
+<!-- default file list end -->
 # How to display detail data within a popup window using ContentUrl (MVC)
 
 
