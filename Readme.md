@@ -16,7 +16,7 @@
 <!-- default file list end -->
 # How to display detail data within a popup window using ContentUrl (MVC)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e20051)**
+**[[Run Online]](https://codecentral.devexpress.com/128551409/)**
 <!-- run online end -->
 
 
