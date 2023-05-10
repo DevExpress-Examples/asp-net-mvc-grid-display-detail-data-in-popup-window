@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET MVC - How to display detail data in a pop-up window
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e20051/)**
+**[[Run Online]](https://codecentral.devexpress.com/128551409/)**
 <!-- run online end -->
 
 This example demonstrates how to create a column's template, add a hyperlink to that template, and show a pop-up window with detail grid data on a hyperlink click.
