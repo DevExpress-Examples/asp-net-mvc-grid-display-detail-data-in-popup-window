@@ -3,7 +3,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e20051/)**
 <!-- run online end -->
 
-This example demonstrates how to create a column's template, add a hyperlink to the template, and show a pop-up window with detail grid data on a hyperlink click.
+This example demonstrates how to create a column's template, add a hyperlink to that template, and show a pop-up window with detail grid data on a hyperlink click.
 
 ![Display detail data in a pop-up window](detailDataInPopup.png)
 
